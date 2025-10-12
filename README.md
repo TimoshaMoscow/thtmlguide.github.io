@@ -1,4 +1,3 @@
-# thtmlguide.github.io
-## Гайд по HTML, CSS и т.п. 
+# Ресурсы для HTML, CSS и т.п. 
 
 By Timosha_Moscow
