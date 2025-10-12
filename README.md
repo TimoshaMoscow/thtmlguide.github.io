@@ -1,3 +1,3 @@
-# Ресурсы для HTML, CSS и т.п. 
+# Resourses for HTML, CSS и т.п. 
 
-By Timosha_Moscow
+By Timosha_Moscow and YATAVO
